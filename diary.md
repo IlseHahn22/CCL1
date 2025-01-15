@@ -1,4 +1,4 @@
-13.01
+//13.01
   Today I started with the platform template and changed it to match my game idea. Then I started with the basic player movement. 
 14.01 
   Today I continued with the player movement and added the control that the player can push certain objects. 
