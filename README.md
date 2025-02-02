@@ -65,7 +65,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Victory Object:
 <div style="text-align: center;">
-  <img src="paperRoll_sprites.png" alt="Paper-roll Victory Object" width="600">
+  <img src="./image/paperRoll_sprites.png" alt="Paper-roll Victory Object" width="600">
   <p>*Figure 4: A rewarding item symbolizing success in a level, bringing the player one step closer to completing their mission!*</p>
 </div>
 
