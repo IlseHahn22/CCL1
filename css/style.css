@@ -1,0 +1,198 @@
+body, html {
+    height: 100%; 
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(217, 235, 192);
+}
+
+#gameContainer {
+    position: relative;
+    width: 1280px; 
+    height: 720px; 
+    border: 2px solid black; 
+}
+
+#canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1280px;
+    height: 720px;
+}
+
+/* add styles for other HTML elements of your game */
+
+#background {
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 1280px;
+   height: 720px;
+   background: url("../images/Background3.png");
+   background-size: cover;
+}
+
+/*Hearts styling*/
+#healthDisplay {
+    position: absolute;
+    display: flex;
+    z-index: 10;
+}
+
+#healthDisplay img {
+    width: 120px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+/*new for the start-overlay-screen*/
+#startscreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 20;
+}
+
+#startscreen img {
+    position: absolute;
+    top: 0;
+    left:0; 
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+#startscreen button {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 50%; /* Adjusts vertical position to slightly below center (50% + extra for offset) */
+    left: 45%;
+    cursor: pointer;
+    background-image: url("../images/StartButton.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: none;
+    padding: 0;
+    background-color: transparent;
+    z-index: 10;
+}
+/*new for the Exit Button button*/
+#exitContainer {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10;
+}
+
+#exitButton {
+    cursor: pointer;
+    width: 60px;
+    height: 50px;
+    background-image: url("../images/ExitButton.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    padding: 0;
+    background-color: transparent;
+}
+
+/*Game-over Screen */
+#gameOverScreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index:20;
+    display: none;
+}
+
+#gameOverScreen.show {
+   display: block;      /*Shows when the id show is added*/
+}
+
+#restartButton2 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 60%; /* Adjusts vertical position to slightly below center (50% + extra for offset) */
+    left: 45%; /* Adjusts horizontal position to center (50%) */
+    cursor: pointer;
+    background-image: url("../images/restartButton.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: none;
+    background-color: transparent;
+    z-index: 10;
+}
+
+#gameOverScreen img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+/* winningScreen*/
+#winningScreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    font-size: 16px;
+    z-index:20;
+    display: none;
+}
+
+#restartButton {
+    position: absolute;
+    cursor: pointer;
+    width: 150px;
+    height: 150px;
+    top: 60%; /* Adjusts vertical position to slightly below center (50% + extra for offset) */
+    left: 45%; /* Adjusts horizontal position to center (50%) */
+    background-image: url("../images/restartButton.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: none;
+    background-color: transparent;
+    z-index: 10;
+}
+
+#winningScreen.show {
+   display: block;      /*Shows when the id show is added*/
+}
+
+#winningScreen img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
