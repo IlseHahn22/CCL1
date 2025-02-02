@@ -7,8 +7,8 @@
   Today I made the start overlay menu and the exit button. So you can exit the game and start again.; 
   Then I started with the control, when the player collides with the paper snippet he finishes the level and the game is over. 
 # 16.01
-  Today I worked on the 3 lives with hearts implementation. The concept is when the player collides with a certain object (the Kaktus), he dies and starts from the start position again. 
-  Afterwards I started with the art part, first I worked on the background and I also changed the canvas size. 
+  Today I worked on the 3 lives with hearts implementation. The concept is when the player collides with a certain object (the Kaktus), he loses one heart. 
+  Afterwards I started with the art part, for that I first worked on the background and I also changed my canvas size. 
 # 17.01
   Today I first implemented the background in the game and then I worked on the art of the individual platforms. Because every Platform in my game is different. 
   Afterwards I implemented it in the code. Then I began to work on my character sprites. 
