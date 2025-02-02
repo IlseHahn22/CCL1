@@ -21,7 +21,7 @@
 
 ---
 
-### Startscreen:
+### Start Screen UI:
 <div style="text-align: center;">
   <img src="./images/Startscreen.png" alt="Startscreen" width="600">
   <p>*Figure 2: Startscreen UI*</p>
@@ -29,7 +29,7 @@
 
 ---
 
-### Winning UI:
+### Winning Screen UI:
 <div style="text-align: center;">
   <img src="./images/winningScreen.jpg" alt="Winning Screen" width="600">
   <p>*Figure 2: Winning Screen UI*</p>
@@ -65,14 +65,6 @@ Below are the sprites used to create characters and objects in the game:
   <img src="./images/jumpingRight.png" alt="Jumping right Spritesheet" width="500">
 
   <p>*Figure 3: Player character animations.*</p>
-</div>
-
----
-
-### Challenge Object:
-<div style="text-align: center;">
-  <img src="./images/Kaktus.png" alt="Kaktus Object" width="200">
-  <p>*Figure 4: A plant that players must avoid. Coming into contact with it you lose one heart!*</p>
 </div>
 
 ---
