@@ -63,7 +63,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Challenge Object:
 <div style="text-align: center;">
-  <img src="Kaktus.png" alt="Kaktus Object" width="500">
+  <img src="./images/Kaktus.png" alt="Kaktus Object" width="500">
   <p>*Figure 4: A plant that players must avoid. Coming into contact with it you lose one heart!*</p>
 </div>
 
@@ -71,7 +71,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Victory Object:
 <div style="text-align: center;">
-  <img src="paperRoll_sprites.png" alt="Paper-roll Victory Object" width="500">
+  <img src="./images/paperRoll_sprites.png" alt="Paper-roll Victory Object" width="500">
   <p>*Figure 4: A rewarding item symbolizing success in a level, bringing the player one step closer to completing their mission!*</p>
 </div>
 
