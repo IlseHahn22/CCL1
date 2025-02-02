@@ -17,6 +17,6 @@
 # 21.01 
   Today I worked again a bit on the sprites and finished implementing everything in the code and then I worked on the starting screen art the buttons art and also the ending screen pop up art. 
 # 22.01 
-  Today I worked on the Start Screen art, the Game Over Screen Art and the Winning Screen Art Background. Then I started with with implementing it the buttons in the code. 
+  Today I worked on the Start Screen art, the Game Over Screen Art and the Winning Screen Art Background. Then I started with implementing all the different buttons (start,restart,exit) in the code. 
 # 23.01 
   Today I finished implementing all the buttons and backgrounds for all the different overlays and then started to work on polishing my code for small different details. For example making a border around the game container, changing the background on the body and I started looking into possible sounds for the game. 
