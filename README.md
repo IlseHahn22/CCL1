@@ -9,7 +9,7 @@
 
 ### Main Gameplay:
 <div style="text-align: center;">
-  <img src="./images/gameplay.png" alt="Gameplay Screenshot" width="600">
+  <img src="gameplay.png" alt="Gameplay Screenshot" width="600">
   <p>*Figure 1: Example of gameplay in action.*</p>
 </div>
 
@@ -17,7 +17,7 @@
 
 ### Start Screen UI:
 <div style="text-align: center;">
-  <img src="./images/Startscreen.png" alt="Startscreen" width="600">
+  <img src="Startscreen.png" alt="Startscreen" width="600">
   <p>*Figure 2: Startscreen UI*</p>
 </div>
 
@@ -25,7 +25,7 @@
 
 ### Winning Screen UI:
 <div style="text-align: center;">
-  <img src="./images/winningScreen.jpg" alt="Winning Screen" width="600">
+  <img src="winningScreen.jpg" alt="Winning Screen" width="600">
   <p>*Figure 2: Winning Screen UI*</p>
 </div>
 
@@ -33,7 +33,7 @@
 
 ### Losing Screen UI:
 <div style="text-align: center;">
-  <img src="./images/losingScreen.jpg" alt="Losing Screen" width="600">
+  <img src="losingScreen.jpg" alt="Losing Screen" width="600">
   <p>*Figure 2: Losing Screen UI*</p>
 </div>
 
@@ -41,7 +41,7 @@
 
 ### Challenge Object:
 <div style="text-align: center;">
-  <img src="./images/Kaktus.png" alt="Kaktus Object" width="200">
+  <img src="Kaktus.png" alt="Kaktus Object" width="200">
   <p>*Figure 4: A plant that players must avoid. Coming into contact with it you lose one heart!*</p>
 </div>
 
@@ -52,11 +52,11 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="./images/spritesheetright.png" alt="Walking right Spritesheet" width="500">
-  <img src="./images/walkingLeft.png" alt="Walking left Spritesheet" width="500">
-  <img src="./images/frontIdle.png" alt="Front Spritesheet" width="500">
-  <img src="./images/jumpingLeft.png" alt="Jumping left Spritesheet" width="500">
-  <img src="./images/jumpingRight.png" alt="Jumping right Spritesheet" width="500">
+  <img src="spritesheetright.png" alt="Walking right Spritesheet" width="500">
+  <img src="walkingLeft.png" alt="Walking left Spritesheet" width="500">
+  <img src="frontIdle.png" alt="Front Spritesheet" width="500">
+  <img src="jumpingLeft.png" alt="Jumping left Spritesheet" width="500">
+  <img src="jumpingRight.png" alt="Jumping right Spritesheet" width="500">
 
   <p>*Figure 3: Player character animations.*</p>
 </div>
@@ -65,7 +65,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Victory Object:
 <div style="text-align: center;">
-  <img src="./images/paperRoll_sprites.png" alt="Paper-roll Victory Object" width="600">
+  <img src="paperRoll_sprites.png" alt="Paper-roll Victory Object" width="600">
   <p>*Figure 4: A rewarding item symbolizing success in a level, bringing the player one step closer to completing their mission!*</p>
 </div>
 
