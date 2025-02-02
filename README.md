@@ -45,6 +45,14 @@
 
 ---
 
+### Challenge Object:
+<div style="text-align: center;">
+  <img src="./images/Kaktus.png" alt="Kaktus Object" width="200">
+  <p>*Figure 4: A plant that players must avoid. Coming into contact with it you lose one heart!*</p>
+</div>
+
+---
+
 ## 🎨 **Spritesheets**
 Below are the sprites used to create characters and objects in the game:
 
