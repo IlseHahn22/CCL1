@@ -21,10 +21,26 @@
 
 ---
 
-### Menu and UI:
+### Startscreen:
 <div style="text-align: center;">
-  <img src="" alt="Menu UI Screenshot" width="600">
-  <p>*Figure 2: Menu and user interface.*</p>
+  <img src="./images/Startscreen.png" alt="Startscreen" width="600">
+  <p>*Figure 2: Startscreen UI*</p>
+</div>
+
+---
+
+### Winning UI:
+<div style="text-align: center;">
+  <img src="./images/Winning Screen.png" alt="Winning Screen" width="600">
+  <p>*Figure 2: Winning Screen UI*</p>
+</div>
+
+---
+
+### Losing Screen UI:
+<div style="text-align: center;">
+  <img src="./images/GameOverScreen.png" alt="Losing Screen" width="600">
+  <p>*Figure 2: Losing Screen UI*</p>
 </div>
 
 ---
@@ -34,16 +50,29 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="" alt="Player Spritesheet" width="500">
+  <img src="./images/spritesheetright.png" alt="Walking right Spritesheet" width="500">
+  <img src="./images/walkingLeft.png" alt="Walking left Spritesheet" width="500">
+  <img src="./images/frontIdle.png" alt="Front Spritesheet" width="500">
+  <img src="./images/jumpingLeft.png" alt="Jumping left Spritesheet" width="500">
+  <img src="./images/jumpingRight.png" alt="Jumping right Spritesheet" width="500">
+
   <p>*Figure 3: Player character animations.*</p>
 </div>
 
 ---
 
-### Enemies and NPCs:
+### Challenge Object:
 <div style="text-align: center;">
-  <img src="" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 4: Enemy animations.*</p>
+  <img src="Kaktus.png" alt="Kaktus Object" width="500">
+  <p>*Figure 4: A plant that players must avoid. Coming into contact with it you lose one heart!*</p>
+</div>
+
+---
+
+### Victory Object:
+<div style="text-align: center;">
+  <img src="paperRoll_sprites.png" alt="Paper-roll Victory Object" width="500">
+  <p>*Figure 4: A rewarding item symbolizing success in a level, bringing the player one step closer to completing their mission!*</p>
 </div>
 
 ---
