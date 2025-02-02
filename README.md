@@ -31,7 +31,7 @@
 
 ### Winning UI:
 <div style="text-align: center;">
-  <img src="./images/Winning Screen.png" alt="Winning Screen" width="600">
+  <img src="./images/winningScreen.jpg" alt="Winning Screen" width="600">
   <p>*Figure 2: Winning Screen UI*</p>
 </div>
 
@@ -39,7 +39,7 @@
 
 ### Losing Screen UI:
 <div style="text-align: center;">
-  <img src="./images/GameOverScreen.png" alt="Losing Screen" width="600">
+  <img src="./images/losingScreen.jpg" alt="Losing Screen" width="600">
   <p>*Figure 2: Losing Screen UI*</p>
 </div>
 
