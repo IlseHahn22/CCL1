@@ -4,6 +4,10 @@
 > "Explore this 2D adventure - platformer where you’ve been mysteriously shrunken and now must explore your house to find pieces of an antidote recipe to return to normal. Each level is a single room full of obstacles. Navigate and avoid the dangerous Kaktus Plant to uncover the truth as you collect each snippet of the recipe. Use WAD to walk and jump, and hold "e" while moving with “a” or “d” to push books and clear your path.
 
 ---
+## 🌐 **Play the Game**
+[Click here to play the game!](https://ilsehahn22.github.io/CCL1/)
+
+---
 
 ## 📸 **Screenshots**
 
